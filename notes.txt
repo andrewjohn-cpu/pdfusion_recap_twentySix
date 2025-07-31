@@ -1,0 +1,34 @@
+file types: test.png, samuel_notes.pdf, tevin.jpg, document.docx, edwin.py, george.html, athman.rb, jenipher.css,
+
+how the web works:
+client - devices you use to interact with when visiting a website: laptop, smart phone, smart television, web browser
+server - computers in charge of storing information for later use e.g home labs
+
+how is a web page/website structured:
+-html - foundation
+-css - styling
+-javascript - functionality
+
+HTML - hypertext markup language
+CSS - stylesheet
+
+linux commands:
+ls - list items inside a folder
+pwd(present working directory) - check current location you are in
+mkdir(make directory) - create a folder
+touch - create a file
+cd(change directory) - navigate to different folder
+
+git and github:
+- install - sudo apt install git
+          - git --version
+- setup git - git config --global user.name "<github_username>"
+            - git config --global user.email "<github_email>"
+            - git config --list --
+
+
+pushing your project to github:
+- open github then
+- create a new repository
+- git init
+- git add .
