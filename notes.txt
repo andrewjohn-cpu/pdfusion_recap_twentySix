@@ -32,3 +32,6 @@ pushing your project to github:
 - create a new repository
 - git init
 - git add .
+- git commit -m "initial commit"
+- git remote add origin <github_repository_url>(git remote -v) - confirmation
+- git push origin master
