@@ -35,3 +35,4 @@ pushing your project to github:
 - git commit -m "initial commit"
 - git remote add origin <github_repository_url>(git remote -v) - confirmation
 - git push origin master
+- git push -u origin master - setting upstream
